@@ -1,0 +1,8 @@
+include ':NotificationApp'
+include ':ToastApp'
+include ':IntentFilter'
+include ':MultiActivity'
+include ':LifecycleActivity'
+include ':dialog'
+include ':app'
+rootProject.name = "pactice2"
