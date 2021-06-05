@@ -1,0 +1,6 @@
+include ':clickbuttons'
+include ':layouttupe'
+include ':taska2'
+include ':taska1'
+include ':app'
+rootProject.name = "practice1"
